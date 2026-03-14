@@ -1,1001 +1,1001 @@
-id,weight,priority,address,distance
-1,423.5,6,963 Northland Center,88
-2,9227.56,9,8 Saint Paul Circle,38
-3,4158.62,8,01862 Heath Drive,55
-4,16466.12,8,6 Clyde Gallagher Drive,88
-5,9960.87,2,42 Vermont Court,27
-6,882.87,5,1 Crescent Oaks Hill,14
-7,12754.34,5,39 Glendale Pass,19
-8,2769.22,9,0366 Esch Crossing,26
-9,592.52,5,40 Brown Plaza,5
-10,7701.41,8,4307 Mcguire Park,71
-11,13099.21,4,80 Hagan Way,60
-12,340.78,5,5158 Michigan Court,22
-13,18229.76,1,07 Fulton Street,69
-14,17790.63,9,0173 Lukken Hill,11
-15,11894.34,9,7736 Hauk Avenue,97
-16,1678.59,8,40442 Killdeer Place,19
-17,4583.71,5,5391 Southridge Way,86
-18,11052.88,5,28 Orin Avenue,59
-19,7765.66,5,9223 Lunder Avenue,34
-20,13747.81,9,0 Northland Point,67
-21,3966.25,1,5 New Castle Junction,66
-22,15895.97,10,8 Clemons Court,37
-23,15124.55,1,1231 Judy Point,30
-24,5825.32,10,5 Carioca Avenue,83
-25,15134.78,4,95538 Rockefeller Trail,45
-26,7865.76,2,26207 Kennedy Court,87
-27,13079.3,5,453 Mayfield Pass,12
-28,14097.58,1,3 Fulton Drive,11
-29,1795.11,4,9 Emmet Hill,21
-30,634.4,6,717 Gulseth Hill,1
-31,17772.18,8,63286 Everett Parkway,86
-32,9620.1,2,1 Norway Maple Pass,96
-33,19712.8,6,7426 Burning Wood Place,86
-34,9583.43,3,7781 Golf Course Circle,57
-35,16840.78,4,99 Lukken Crossing,78
-36,17448.35,9,0 Clove Court,42
-37,1421.06,5,23 3rd Circle,21
-38,11568.74,3,42201 Carey Trail,10
-39,12119.85,3,076 Grasskamp Circle,31
-40,1699.61,4,40 Green Lane,63
-41,7956.85,1,23 Sullivan Park,73
-42,5211.44,5,61544 Dottie Park,29
-43,17598.82,5,7 3rd Road,51
-44,4743.13,3,02 Jenna Road,36
-45,19754.81,4,4677 Dexter Road,57
-46,10076.72,5,152 Hayes Place,34
-47,11433.58,5,074 Arizona Alley,14
-48,10.98,3,68566 Lake View Street,83
-49,1096.2,1,01918 Summer Ridge Terrace,5
-50,3841.73,5,9044 Spaight Point,15
-51,2567.98,4,729 Sunnyside Plaza,71
-52,15043.93,2,022 Muir Street,31
-53,4116.68,4,1739 Memorial Terrace,75
-54,1766.35,7,33 Veith Alley,77
-55,13149.75,1,23690 Northridge Terrace,73
-56,3440.76,4,2 Holy Cross Hill,63
-57,18859.85,2,664 Annamark Alley,9
-58,9400.49,2,1 Sauthoff Center,5
-59,7801.41,9,66 Arkansas Parkway,94
-60,10899.55,2,2381 Jana Junction,10
-61,16145.46,7,0512 Eagan Crossing,28
-62,7399.28,1,4615 Pearson Circle,47
-63,1040.52,6,0 Knutson Crossing,20
-64,11396.01,8,3415 Vera Junction,64
-65,7522.62,5,078 Miller Crossing,71
-66,8256.61,9,44 Del Sol Center,43
-67,6682.83,3,8517 Chive Parkway,69
-68,18208.21,2,67559 West Avenue,61
-69,8468.91,9,9926 Mifflin Park,22
-70,18428.16,3,538 Lighthouse Bay Plaza,23
-71,3061.63,4,42437 Loomis Place,90
-72,19022.38,8,45 Colorado Hill,98
-73,6286.42,1,0 Anhalt Plaza,84
-74,128.57,8,69863 Stoughton Park,61
-75,15957.41,2,1 Sachtjen Parkway,41
-76,9267.53,8,56082 Lukken Drive,46
-77,17925.09,1,6 Farragut Circle,86
-78,5492.36,9,774 Armistice Parkway,78
-79,548.23,1,06885 Green Ridge Place,57
-80,15960.12,3,5850 Rowland Plaza,29
-81,4531.0,9,5 New Castle Crossing,55
-82,5275.8,5,595 Huxley Terrace,61
-83,12706.31,6,062 Lakewood Gardens Place,14
-84,3739.01,4,594 Clove Alley,27
-85,19756.0,10,81971 Randy Lane,17
-86,8684.31,9,98 Fuller Trail,69
-87,13907.59,5,816 Truax Avenue,30
-88,17706.0,9,42 Bunker Hill Drive,65
-89,1711.94,9,85 Leroy Court,51
-90,1829.17,6,3 Glendale Road,41
-91,3894.29,1,46274 Eastwood Point,40
-92,19700.0,1,3665 Mayer Way,49
-93,5734.27,5,94 Pankratz Road,92
-94,16891.71,1,46925 Acker Road,55
-95,11820.31,5,99 1st Pass,35
-96,2164.69,2,77 Loomis Circle,75
-97,11148.51,6,9 Chinook Junction,5
-98,4930.33,6,80 Rusk Lane,20
-99,8373.04,10,6860 Corben Point,24
-100,19975.51,9,6 Arizona Pass,18
-101,17106.34,8,6493 Del Sol Pass,84
-102,12494.85,6,32055 Delladonna Court,86
-103,6829.16,7,03 Transport Crossing,46
-104,4361.91,5,19 Valley Edge Way,63
-105,11560.74,5,6 Mayer Center,23
-106,11503.06,7,7 School Park,47
-107,16911.81,10,794 Buhler Alley,17
-108,3122.96,10,05 Corben Drive,27
-109,786.6,2,06426 Nevada Park,13
-110,16559.09,3,0915 Hollow Ridge Drive,64
-111,15442.65,10,16 Mosinee Parkway,2
-112,6262.3,10,1508 Ryan Point,35
-113,1657.11,1,13 High Crossing Point,94
-114,1365.02,9,616 Cardinal Drive,67
-115,17973.08,1,739 1st Hill,24
-116,10538.65,2,025 Pawling Parkway,88
-117,14189.79,3,17 Carioca Pass,46
-118,67.57,10,054 Chinook Point,67
-119,17125.95,6,4 Golden Leaf Trail,79
-120,17622.23,7,80635 Stuart Junction,47
-121,19068.56,7,49 Thompson Avenue,37
-122,16364.38,4,0 Dovetail Alley,44
-123,1043.52,5,28762 Arrowood Way,36
-124,9025.0,8,023 Ridgeview Park,81
-125,18808.33,1,2 Crowley Hill,94
-126,9178.37,1,97 Lunder Trail,89
-127,1799.9,9,0282 Sycamore Plaza,71
-128,14469.67,7,258 Glacier Hill Trail,50
-129,12531.0,10,890 Dennis Place,93
-130,11564.92,9,3 Arizona Center,4
-131,11907.24,7,2 Burning Wood Lane,15
-132,4563.7,9,5345 Havey Street,50
-133,3495.31,9,482 Lillian Place,23
-134,2615.88,6,44223 Kingsford Point,95
-135,7974.77,3,6590 Basil Lane,13
-136,17637.22,6,3966 Michigan Alley,2
-137,3432.72,1,12 Alpine Center,38
-138,39.19,9,55192 Linden Lane,20
-139,5023.3,3,7555 Ludington Crossing,80
-140,2960.43,10,90527 Larry Hill,67
-141,9976.87,3,274 Rutledge Park,100
-142,17983.87,7,388 Eagan Hill,80
-143,11640.13,10,5 Dunning Court,21
-144,4745.15,1,09384 Main Center,46
-145,1161.86,5,72864 Moose Plaza,47
-146,7465.94,4,9485 Montana Circle,9
-147,356.76,7,8793 Crest Line Terrace,56
-148,10152.51,1,12699 Hintze Crossing,28
-149,13527.85,7,64 Truax Pass,36
-150,19540.95,1,19216 Monica Center,35
-151,18306.52,7,14555 Buhler Avenue,49
-152,14011.15,4,045 Esch Plaza,86
-153,15271.42,3,931 Chive Junction,41
-154,3802.39,10,3 Scofield Plaza,66
-155,19102.95,2,88149 Continental Drive,61
-156,3428.22,6,9586 Parkside Way,75
-157,681.38,9,57371 Susan Drive,45
-158,17767.58,2,534 Toban Road,78
-159,3430.2,9,104 Anthes Center,80
-160,7267.16,4,820 Gina Court,31
-161,7755.63,6,083 Brown Crossing,2
-162,5160.49,4,3575 Bayside Center,27
-163,1798.13,3,03 Anniversary Junction,60
-164,10163.14,2,21 Almo Alley,90
-165,9583.72,3,172 Melby Plaza,77
-166,2546.08,1,4032 Bonner Parkway,19
-167,9085.83,1,582 Tennessee Alley,94
-168,14097.24,8,333 Northland Pass,83
-169,2260.07,2,0 Division Trail,72
-170,15217.4,9,91 Hayes Parkway,6
-171,11847.2,6,45 Artisan Place,95
-172,17992.58,5,375 Ilene Court,97
-173,18347.86,7,854 Twin Pines Lane,85
-174,13506.9,10,4 High Crossing Point,19
-175,17693.75,6,6 Schmedeman Drive,79
-176,11843.99,1,303 Coleman Trail,5
-177,2975.52,4,1 Monterey Terrace,78
-178,9513.47,3,26 Delaware Avenue,63
-179,3939.59,1,57406 Blaine Court,92
-180,19229.4,4,97046 Katie Junction,92
-181,4580.35,5,00521 Declaration Trail,51
-182,8906.28,4,35663 Morning Way,54
-183,12122.96,3,8 Mallory Circle,96
-184,3118.94,5,3 Laurel Place,75
-185,19410.25,3,5 Stone Corner Plaza,41
-186,3323.3,9,1453 Summer Ridge Point,87
-187,19331.66,3,6272 Canary Pass,60
-188,15969.13,3,5048 Delaware Pass,35
-189,9190.5,6,963 Kensington Plaza,65
-190,15496.19,2,50 Comanche Pass,50
-191,12418.42,1,9 Golf View Park,52
-192,5622.93,9,16 Fallview Hill,75
-193,15595.38,8,5 Stoughton Drive,77
-194,14106.23,9,51 Bonner Way,23
-195,8729.97,10,8 Fairview Way,25
-196,7472.01,5,64393 Bay Plaza,63
-197,12307.42,1,34 Jenifer Trail,14
-198,5762.7,8,9 Almo Park,53
-199,5305.14,9,3 Judy Alley,25
-200,4139.01,3,064 Clarendon Pass,6
-201,15762.88,4,03611 Columbus Parkway,75
-202,690.36,10,10 Roxbury Drive,75
-203,1330.88,10,785 Prairie Rose Hill,90
-204,14031.53,7,2 Sommers Center,26
-205,5974.49,10,92411 Norway Maple Street,41
-206,11787.3,9,6942 Lunder Junction,16
-207,7807.57,4,0756 Ludington Point,3
-208,7763.2,3,596 North Lane,88
-209,6503.72,4,5098 Evergreen Drive,96
-210,8378.26,5,854 Birchwood Road,99
-211,6604.0,1,8839 Graceland Way,79
-212,10896.69,1,10731 Toban Plaza,68
-213,16974.94,6,10 Laurel Terrace,47
-214,8769.3,2,77 Crowley Center,72
-215,18349.7,1,49308 Northport Crossing,43
-216,2152.66,10,507 Garrison Way,27
-217,5893.13,2,1 Scoville Way,3
-218,1650.31,7,26089 Kinsman Crossing,20
-219,4219.14,7,45 John Wall Parkway,48
-220,13617.57,1,827 7th Drive,19
-221,5702.24,6,3 Talisman Trail,90
-222,5356.83,3,0037 Orin Lane,64
-223,6418.77,8,71 Utah Hill,100
-224,10465.92,8,41297 Laurel Place,29
-225,13405.23,6,81 Everett Court,90
-226,11298.15,9,0033 David Alley,55
-227,13319.02,7,7 Almo Hill,49
-228,5725.42,3,93 Del Mar Crossing,73
-229,12569.04,4,814 Manitowish Plaza,17
-230,7383.3,4,57 Fair Oaks Parkway,26
-231,15035.9,10,6373 Leroy Place,41
-232,4520.85,2,21 Mifflin Parkway,46
-233,14593.9,8,193 Texas Lane,89
-234,2855.45,7,4 Park Meadow Street,21
-235,7713.76,6,89167 Sunbrook Street,47
-236,8014.48,3,448 Maryland Junction,1
-237,9949.4,9,5 Nelson Way,57
-238,5067.96,8,18721 Fairfield Plaza,5
-239,6137.52,1,23612 Melby Plaza,79
-240,8852.28,2,24 New Castle Drive,11
-241,11692.39,3,2228 Lotheville Pass,93
-242,16408.0,2,96302 Eagan Drive,56
-243,636.82,4,61 Buena Vista Crossing,64
-244,12712.28,7,4 Ohio Crossing,28
-245,18372.49,9,79 Hooker Court,86
-246,1825.44,10,839 Ridgeway Street,33
-247,8982.8,9,6316 Dahle Parkway,21
-248,9529.69,6,207 Dayton Junction,78
-249,18469.14,1,6 Sycamore Point,93
-250,1535.9,9,33088 Knutson Alley,87
-251,5062.98,9,213 Stang Way,89
-252,14254.4,6,22744 Pond Crossing,31
-253,9287.62,2,97986 Wayridge Parkway,93
-254,9964.39,4,56 Oxford Junction,59
-255,12248.9,4,1424 Blue Bill Park Circle,86
-256,14239.89,10,0288 Hovde Junction,40
-257,5451.26,7,6379 Green Place,43
-258,4946.83,1,6 Dwight Park,85
-259,11442.57,7,67849 Mifflin Avenue,25
-260,12353.94,4,51 Nova Place,63
-261,12285.63,5,15009 Evergreen Road,88
-262,14336.72,3,85 Evergreen Hill,47
-263,1679.75,10,5320 Hagan Junction,58
-264,6213.07,7,53079 Meadow Vale Street,93
-265,17812.44,10,6001 Browning Circle,94
-266,10708.95,1,0366 Crowley Trail,93
-267,6723.65,5,728 Everett Street,5
-268,19590.05,10,9 Mitchell Alley,30
-269,19822.23,1,0033 Milwaukee Way,18
-270,16119.83,4,8932 Kedzie Drive,63
-271,9121.78,8,97 Moulton Road,84
-272,13767.86,4,2 Kingsford Park,42
-273,5193.02,2,0 Moland Point,70
-274,11106.44,10,9 Donald Alley,96
-275,7643.01,2,058 Steensland Terrace,93
-276,18365.02,10,9 Hanover Trail,27
-277,1862.15,6,628 Commercial Point,41
-278,5533.3,1,2 Linden Street,80
-279,362.91,10,06 Old Shore Park,14
-280,16433.52,4,6 Northwestern Park,9
-281,2085.84,5,02 Birchwood Crossing,21
-282,5797.41,7,498 Grayhawk Junction,30
-283,11773.92,8,66 5th Point,19
-284,13483.82,1,57 Arkansas Parkway,13
-285,18728.85,8,5 Swallow Terrace,84
-286,3400.43,5,34 Northview Terrace,83
-287,7509.84,8,75137 Cascade Trail,46
-288,8678.49,10,2099 Ramsey Plaza,38
-289,2837.28,4,09 Melody Point,14
-290,3800.25,6,5952 Melody Drive,53
-291,9535.86,5,90 Valley Edge Road,75
-292,6552.79,2,6 Ridge Oak Place,82
-293,17545.04,6,21 New Castle Trail,50
-294,5746.4,2,3408 Fairfield Point,68
-295,18690.65,3,56597 Larry Drive,56
-296,2868.81,10,8 Kenwood Lane,71
-297,9044.45,5,58 Bultman Pass,49
-298,19401.6,7,9749 Warrior Way,51
-299,15515.91,6,3339 Holmberg Way,62
-300,2534.6,3,26 Buell Park,75
-301,1544.38,8,2789 Northfield Drive,17
-302,2248.9,10,75317 North Park,41
-303,18691.95,4,7 Old Shore Parkway,49
-304,13728.61,3,283 Oakridge Terrace,46
-305,13260.12,10,20 Washington Parkway,29
-306,6291.33,9,7 Carioca Hill,51
-307,5139.76,9,70 Cambridge Alley,56
-308,7162.57,3,60 Kings Street,79
-309,4096.09,10,0 Forest Run Center,22
-310,7743.75,9,74050 Hanover Road,59
-311,10308.13,6,028 Trailsway Way,8
-312,4990.22,9,22189 Birchwood Trail,40
-313,4725.63,9,87365 Morrow Terrace,94
-314,7675.69,8,8966 Dapin Road,5
-315,3087.7,5,3905 Bluejay Point,19
-316,15137.62,9,53541 Village Green Parkway,38
-317,4416.08,3,27584 Westerfield Place,88
-318,2643.04,6,013 Arapahoe Park,9
-319,9696.01,2,21 Warrior Point,98
-320,2.27,9,06993 Delladonna Alley,45
-321,3817.42,9,7 Lake View Terrace,16
-322,7791.84,9,75969 Starling Center,45
-323,16678.66,2,1724 Memorial Way,70
-324,16686.24,8,5 Bay Way,89
-325,19842.27,2,667 Clemons Alley,51
-326,17058.81,4,48215 Russell Road,52
-327,2635.73,8,385 Sheridan Avenue,60
-328,19623.48,9,5 Petterle Crossing,53
-329,13279.21,9,66087 Tony Alley,5
-330,7258.95,6,275 Westend Drive,69
-331,2319.52,7,66221 Hoepker Place,54
-332,13530.67,1,89537 Reinke Trail,50
-333,4706.44,3,06980 Susan Hill,29
-334,634.22,7,73 Dixon Junction,9
-335,18066.12,6,645 Melody Crossing,10
-336,12702.25,2,97 Browning Drive,77
-337,6345.29,5,9 Barby Pass,33
-338,15557.87,1,914 Bonner Lane,24
-339,17095.36,8,8 John Wall Alley,7
-340,6727.23,9,7287 Dawn Avenue,59
-341,18114.17,3,83571 Independence Junction,32
-342,4150.37,9,3728 6th Point,93
-343,2715.86,6,871 7th Way,12
-344,1264.13,5,654 Tony Place,97
-345,15391.51,5,26 Mendota Park,55
-346,16209.24,10,46780 Pine View Junction,75
-347,8543.61,5,0062 Clove Plaza,19
-348,14501.0,6,5 Hermina Crossing,61
-349,10120.59,4,173 Crownhardt Trail,21
-350,19229.9,4,52690 Beilfuss Alley,58
-351,6949.49,5,56174 Monument Drive,28
-352,6536.33,6,37363 Dixon Junction,1
-353,13075.67,3,5 Lien Center,4
-354,5751.42,1,689 Blaine Trail,31
-355,8095.89,6,4698 8th Hill,49
-356,10344.6,3,185 Corry Terrace,82
-357,6318.46,9,49 Milwaukee Avenue,57
-358,2765.49,7,540 Union Drive,57
-359,1345.2,7,56665 Oneill Parkway,41
-360,1372.3,4,89463 Toban Terrace,85
-361,15281.56,7,4080 Golf Lane,22
-362,18105.49,1,65480 Springview Street,73
-363,12563.25,6,85068 Muir Trail,79
-364,6035.07,8,72210 Dryden Hill,72
-365,10913.19,10,6534 Texas Way,47
-366,14263.96,10,68 Fisk Park,40
-367,15562.63,9,34833 Lindbergh Terrace,76
-368,7846.73,5,9 Thompson Park,20
-369,17282.53,4,61280 Armistice Plaza,4
-370,4508.33,4,1359 Jana Center,78
-371,14646.7,2,90231 Linden Drive,47
-372,5871.55,8,65179 Caliangt Drive,45
-373,8598.26,6,126 Ilene Avenue,35
-374,2681.72,10,5 Nancy Court,25
-375,8359.08,1,94 Orin Trail,21
-376,6391.09,10,50 Cherokee Avenue,55
-377,1692.69,5,11474 Burrows Lane,16
-378,16576.66,8,33365 Cascade Parkway,45
-379,9854.58,4,1181 Blackbird Road,46
-380,2558.32,10,7103 Roth Point,80
-381,17140.76,2,50 Linden Pass,49
-382,7412.82,5,68 John Wall Lane,19
-383,7124.94,6,01445 Blackbird Parkway,30
-384,8360.87,5,1 Roxbury Lane,59
-385,8807.24,1,3 Orin Court,66
-386,3857.83,7,1306 Northridge Road,36
-387,2526.92,10,7 Steensland Avenue,9
-388,14801.88,2,5812 Lindbergh Place,98
-389,6439.52,6,2 Eastwood Drive,8
-390,11361.07,10,6200 Eastwood Court,16
-391,12758.52,4,82 Corben Park,36
-392,5850.9,9,411 Forest Way,55
-393,14215.99,1,7 Lawn Way,79
-394,18510.05,1,45126 Stang Point,75
-395,7899.61,2,003 Kennedy Point,17
-396,14346.29,10,455 Village Green Place,86
-397,17156.22,4,766 Longview Place,99
-398,7310.25,7,977 Carpenter Parkway,55
-399,10164.54,6,2577 Ronald Regan Street,64
-400,2378.04,5,29 Oak Valley Place,22
-401,6620.58,3,69688 International Circle,70
-402,13013.28,5,9616 Delaware Avenue,54
-403,8846.77,3,89224 Independence Junction,51
-404,13983.4,5,343 Clyde Gallagher Avenue,94
-405,19324.19,3,44363 Del Mar Junction,15
-406,5445.59,5,45 Thackeray Crossing,92
-407,4418.19,3,59 Upham Terrace,32
-408,3402.69,2,76 Orin Point,69
-409,438.08,6,6608 Dixon Junction,19
-410,6951.57,2,64862 Charing Cross Center,32
-411,15729.4,9,16258 Prairie Rose Point,5
-412,4854.18,4,75 Lindbergh Junction,15
-413,7918.07,3,9915 Meadow Valley Road,94
-414,3573.96,1,5659 Schlimgen Parkway,59
-415,9727.88,3,690 Oriole Avenue,61
-416,10974.0,6,46012 Pearson Point,23
-417,1894.32,1,76 Dennis Court,40
-418,12951.81,6,86 Sheridan Pass,62
-419,15499.25,3,57784 Monument Park,21
-420,8437.31,1,9473 Stephen Parkway,89
-421,3451.52,1,99 Warner Junction,43
-422,3804.57,2,4 Hagan Point,24
-423,10443.58,7,50 Anhalt Court,31
-424,16055.78,6,698 Cherokee Alley,73
-425,8363.31,5,115 Myrtle Drive,61
-426,7347.6,6,74677 Sauthoff Lane,41
-427,14374.03,8,2 Moose Terrace,23
-428,7247.51,1,73441 Lotheville Road,34
-429,17395.08,3,9 Green Trail,4
-430,5455.63,5,291 Memorial Park,40
-431,14861.21,6,68 Carioca Trail,76
-432,18217.28,4,65505 Independence Court,39
-433,4835.82,10,50433 Tomscot Point,2
-434,10615.02,2,802 Fisk Parkway,38
-435,3087.91,10,22846 Golf Hill,81
-436,14013.47,10,168 Monica Parkway,47
-437,4079.16,1,48911 Fremont Drive,72
-438,12783.34,4,53 Grim Avenue,4
-439,13621.72,4,9588 Delladonna Park,94
-440,16857.36,6,74064 Ridgeway Avenue,21
-441,13207.59,2,38 Golf View Junction,68
-442,14688.58,10,71 Hintze Road,38
-443,9115.32,2,581 Hayes Court,85
-444,2933.33,5,5097 Swallow Pass,20
-445,15382.3,8,5497 Redwing Road,92
-446,12148.49,8,41371 Gale Alley,69
-447,6359.29,1,0912 Dakota Trail,36
-448,15820.61,10,08337 Hintze Place,25
-449,10356.8,5,0 Upham Place,33
-450,17339.87,6,1 Lakewood Trail,76
-451,15583.84,10,14082 Bunker Hill Way,93
-452,1953.16,7,03008 Hudson Alley,100
-453,7289.41,7,3778 Marcy Plaza,30
-454,884.94,9,16 Cody Place,17
-455,7496.44,4,3537 Mariners Cove Hill,29
-456,2391.38,5,6 David Street,86
-457,7180.93,9,501 Acker Road,71
-458,11819.67,1,888 Carpenter Plaza,75
-459,6265.17,3,45424 Paget Street,62
-460,7676.29,10,37288 Dorton Junction,97
-461,1558.7,9,131 Holmberg Plaza,76
-462,13998.63,3,829 Jenna Street,12
-463,9818.66,8,51 Heffernan Drive,22
-464,12170.82,3,2 Maryland Junction,88
-465,11796.49,8,2890 Kedzie Park,33
-466,4352.78,8,2 Continental Court,99
-467,1479.08,2,3497 Northport Trail,35
-468,14354.01,8,1815 Calypso Street,47
-469,9682.18,5,39710 Bunting Alley,33
-470,14401.67,2,81891 Browning Point,7
-471,19347.42,2,79379 Ryan Park,12
-472,12208.23,4,1269 Badeau Drive,12
-473,1065.02,10,077 Laurel Crossing,78
-474,19356.91,9,1864 Eagle Crest Avenue,63
-475,13614.58,5,8 Loeprich Hill,8
-476,12720.53,5,1 Moose Avenue,93
-477,6456.67,1,280 Thackeray Alley,100
-478,12312.0,4,0 Anniversary Avenue,61
-479,7051.51,4,1329 Eastwood Court,49
-480,634.18,4,9479 Delaware Avenue,99
-481,9289.0,7,6351 American Ash Park,47
-482,1791.13,8,489 Upham Place,30
-483,15999.74,8,111 Rusk Drive,1
-484,59.86,8,7 Derek Parkway,24
-485,19196.1,2,00 Sundown Center,31
-486,2847.24,3,083 Burning Wood Terrace,37
-487,17203.0,8,1264 East Road,88
-488,14110.59,2,82 Rusk Crossing,61
-489,18876.58,6,6780 4th Plaza,77
-490,3090.88,4,02418 Maywood Junction,90
-491,3759.16,6,73623 Johnson Way,45
-492,6692.74,6,9 Macpherson Way,83
-493,3279.82,5,4101 Mifflin Road,87
-494,8189.45,8,4 Alpine Lane,20
-495,9255.57,7,73263 Upham Alley,6
-496,16905.51,6,51500 Corben Point,19
-497,849.42,5,266 Gulseth Park,49
-498,6783.57,9,31 Riverside Circle,21
-499,18379.93,7,740 Northwestern Street,93
-500,9602.05,10,0 Burning Wood Avenue,2
-501,12721.07,10,64903 Dixon Drive,91
-502,10081.65,5,02 Lawn Road,59
-503,8972.33,5,696 Starling Lane,10
-504,17111.25,3,7 Utah Avenue,48
-505,5844.63,6,68 Carioca Circle,90
-506,5526.8,1,5819 South Street,29
-507,18731.89,4,4 Mayer Drive,75
-508,12815.91,3,3071 Pond Hill,59
-509,8696.07,7,1598 Jay Street,76
-510,855.47,1,5191 Thompson Drive,21
-511,5707.94,9,217 Waxwing Center,5
-512,2152.64,2,2 Northwestern Pass,61
-513,12318.32,10,433 Judy Terrace,14
-514,911.32,7,27 Dahle Way,56
-515,15147.6,8,59460 Daystar Pass,43
-516,14040.54,4,63 Randy Lane,80
-517,9609.72,5,2077 Clarendon Court,23
-518,7410.48,2,6 Arrowood Trail,72
-519,15698.24,1,816 Clove Place,9
-520,19478.51,10,55 Carioca Road,36
-521,8343.61,3,56486 Delladonna Parkway,48
-522,11603.67,3,749 Columbus Alley,47
-523,10453.46,10,38 Reindahl Terrace,39
-524,16579.59,10,0 Forest Avenue,10
-525,17421.0,4,45 Towne Court,32
-526,3711.19,4,376 Eagan Trail,20
-527,5771.75,1,3796 Bowman Plaza,75
-528,7289.31,2,45 Talisman Drive,28
-529,10747.07,9,597 Chinook Street,68
-530,19523.46,1,9 Lyons Road,30
-531,2970.8,5,2 La Follette Plaza,71
-532,14611.55,5,823 Veith Trail,15
-533,10360.51,1,3263 Gerald Alley,40
-534,5954.54,1,3403 Fordem Pass,43
-535,12321.81,3,51600 Division Drive,71
-536,5174.65,7,88 Stuart Court,48
-537,3059.84,8,08977 Cody Alley,19
-538,6006.48,1,53 Warner Point,86
-539,18809.4,2,953 Mallard Park,77
-540,133.06,6,0604 Dwight Crossing,85
-541,13232.4,1,20082 Cascade Drive,89
-542,2705.35,2,554 Larry Park,35
-543,8823.66,1,53 Maple Wood Drive,70
-544,4996.52,5,3 Ruskin Trail,46
-545,4182.55,8,07 Old Gate Park,94
-546,18030.97,10,91624 Dottie Hill,81
-547,735.59,6,524 Lukken Lane,20
-548,15679.58,2,05345 Westport Terrace,35
-549,2294.45,4,6 Texas Circle,77
-550,1386.48,7,4 Continental Park,78
-551,6042.42,3,742 Heffernan Place,45
-552,1228.58,7,78997 Heffernan Plaza,6
-553,12743.53,2,0698 Eastlawn Hill,26
-554,16620.07,4,55082 Old Gate Pass,23
-555,12040.67,3,79613 Superior Parkway,57
-556,12290.06,9,9032 Sunnyside Lane,77
-557,13388.72,6,80 Birchwood Circle,53
-558,9515.35,8,5 Bellgrove Terrace,79
-559,15997.6,1,05412 Meadow Vale Drive,99
-560,18953.27,5,994 Butterfield Place,91
-561,726.09,9,413 Grayhawk Avenue,32
-562,1708.0,5,735 Warrior Court,16
-563,11491.3,10,3 Grim Avenue,23
-564,7167.43,10,74 Macpherson Point,97
-565,1428.68,2,8 4th Hill,55
-566,7504.23,4,06181 Nelson Center,23
-567,6042.33,9,9586 Lillian Avenue,77
-568,1715.52,4,94210 Fair Oaks Hill,38
-569,15813.2,5,90 Iowa Place,55
-570,3667.51,7,50848 Ryan Plaza,46
-571,11340.65,5,321 Melrose Place,38
-572,8924.02,5,2546 Susan Way,98
-573,17356.97,5,8 Pennsylvania Center,10
-574,17455.42,7,625 Crowley Trail,46
-575,3834.21,3,795 Vidon Crossing,70
-576,7606.26,5,5974 7th Road,37
-577,13579.19,1,0 Moland Road,38
-578,13133.76,7,74 Nevada Way,55
-579,10181.07,4,59 Village Green Drive,1
-580,8769.45,4,6220 Anthes Center,44
-581,8901.89,4,075 Larry Road,20
-582,1419.32,8,1616 Hoard Point,35
-583,1409.17,8,80 Delaware Drive,50
-584,13222.27,1,6 Gateway Circle,93
-585,5470.11,7,5 Superior Lane,9
-586,5812.72,6,227 Westerfield Place,69
-587,17164.77,1,411 Mesta Alley,77
-588,18424.14,8,5088 Laurel Drive,86
-589,11191.15,4,30 Dixon Terrace,86
-590,1014.67,7,20532 Drewry Street,9
-591,11020.24,6,64 Dorton Plaza,98
-592,8293.21,2,650 Magdeline Point,22
-593,8986.45,8,7 Butterfield Lane,76
-594,1425.81,2,766 Dwight Circle,12
-595,6974.38,2,40 Chive Way,27
-596,2511.23,5,3758 Fisk Park,59
-597,3459.66,10,03 Riverside Crossing,6
-598,19410.56,9,4 Manufacturers Court,78
-599,586.3,6,95750 Marquette Crossing,24
-600,16614.1,5,10 Sage Street,47
-601,2811.78,10,0 Bashford Terrace,38
-602,48.75,8,665 5th Street,55
-603,13970.64,2,93 Erie Circle,100
-604,386.21,1,7 Esker Way,94
-605,18624.57,9,42 Rusk Point,15
-606,6036.45,9,77746 Towne Avenue,15
-607,19972.09,2,60211 Green Ridge Road,84
-608,5215.56,8,83 Forest Run Road,22
-609,9296.81,1,94736 Oak Valley Place,33
-610,1364.31,1,19023 David Trail,21
-611,13792.01,7,0 Burrows Terrace,40
-612,2353.47,5,75579 Badeau Pass,52
-613,17766.54,4,2082 Village Pass,13
-614,5714.45,5,6 Glendale Drive,71
-615,9623.32,8,79546 Pierstorff Circle,67
-616,5196.02,5,31152 Bobwhite Avenue,53
-617,14287.17,5,7198 Norway Maple Place,41
-618,18254.42,3,643 Lien Crossing,78
-619,18238.56,10,8 Springs Avenue,62
-620,9036.05,1,80 Anderson Pass,85
-621,10345.8,2,4 Northview Lane,95
-622,5889.17,1,430 Spenser Drive,50
-623,10907.68,6,2 Kenwood Point,77
-624,3845.88,2,20 Arkansas Pass,97
-625,8218.44,5,13 Sugar Street,57
-626,9584.78,10,7 Stoughton Terrace,87
-627,2478.98,10,5117 Bunker Hill Plaza,8
-628,18634.49,10,837 Shasta Center,38
-629,8863.9,2,8 Fuller Center,42
-630,9240.69,10,7015 Del Mar Plaza,48
-631,13149.84,9,91 Meadow Vale Terrace,74
-632,6827.4,10,68 Village Way,41
-633,9677.42,3,65 Farmco Street,2
-634,3030.06,2,2567 Forest Dale Center,10
-635,10802.66,5,22 Paget Hill,16
-636,18602.95,2,5 Northport Trail,38
-637,1097.58,4,99746 Welch Hill,16
-638,9396.74,2,45942 Leroy Plaza,64
-639,19052.25,4,0 Express Center,13
-640,5131.64,6,8 Autumn Leaf Drive,24
-641,3149.19,8,879 Orin Parkway,35
-642,12093.66,7,25943 Gulseth Avenue,15
-643,602.84,4,9672 Anzinger Crossing,58
-644,11348.6,7,67340 Goodland Plaza,10
-645,17777.24,10,0 Esker Circle,78
-646,14948.35,7,59 Carey Way,80
-647,13219.63,7,8 Ridge Oak Alley,85
-648,12028.49,7,50236 Continental Terrace,72
-649,3074.6,6,1904 American Avenue,100
-650,13878.62,10,308 Corry Circle,84
-651,12664.28,9,9684 Bowman Point,17
-652,10682.24,6,79790 Gina Avenue,26
-653,16244.92,9,18 Bluestem Way,26
-654,14387.86,7,4 Bartelt Plaza,68
-655,13302.93,1,90 Westport Street,94
-656,5375.21,6,87640 Johnson Crossing,91
-657,640.59,7,60 Eastwood Crossing,91
-658,11671.96,9,282 8th Street,75
-659,15880.95,2,18 Acker Drive,56
-660,14058.67,2,63 Bartillon Hill,34
-661,16625.47,8,9337 South Crossing,32
-662,4854.02,3,94408 Drewry Drive,44
-663,14990.16,9,789 Pennsylvania Avenue,13
-664,12518.31,4,90957 Crowley Plaza,30
-665,7572.78,6,40618 Center Pass,39
-666,3877.34,8,71 Elgar Circle,80
-667,13641.05,7,32915 Mayfield Alley,15
-668,13361.76,2,75210 Florence Alley,35
-669,7352.55,2,11470 Canary Pass,12
-670,15776.87,9,4 Dottie Way,83
-671,8788.92,4,3 Victoria Plaza,25
-672,13377.6,7,6 Merry Street,78
-673,11283.59,3,70 Oriole Trail,38
-674,11084.56,3,2697 Pawling Point,34
-675,3246.04,10,006 Monterey Plaza,40
-676,9630.3,10,4 Ohio Trail,43
-677,2810.81,4,953 Esch Hill,45
-678,8041.16,2,0262 Trailsway Road,59
-679,19747.9,6,8093 International Way,53
-680,5793.44,6,21276 Mallory Junction,9
-681,11679.31,9,0 Crownhardt Center,96
-682,5108.52,2,96 Hudson Terrace,84
-683,832.0,7,3666 Hanson Center,35
-684,4219.32,10,29 Eagle Crest Road,23
-685,17393.03,9,27980 Novick Pass,15
-686,8582.13,5,03389 Gina Crossing,48
-687,2802.78,10,8856 Leroy Court,3
-688,484.54,5,92172 Susan Alley,32
-689,7501.95,8,24 Butternut Alley,58
-690,11103.69,8,735 Paget Road,39
-691,5656.46,9,8 Meadow Vale Parkway,92
-692,450.25,2,6 Sachs Center,82
-693,6790.59,4,79 Elka Pass,1
-694,16366.62,10,3180 Cardinal Road,100
-695,1250.56,7,644 Towne Place,56
-696,19216.42,9,9 Schurz Point,36
-697,12206.91,1,2598 Burning Wood Avenue,70
-698,5778.47,6,9 Dexter Drive,68
-699,10664.37,9,46 Corry Plaza,76
-700,2668.08,10,97283 Beilfuss Circle,27
-701,13878.14,1,6 Mccormick Way,10
-702,6998.95,9,422 Dawn Center,34
-703,16720.48,7,45235 Green Ridge Way,71
-704,4965.23,6,3066 Hooker Court,85
-705,9311.1,2,968 Donald Road,46
-706,15371.24,2,8 Victoria Center,21
-707,13145.72,7,55 Waywood Pass,17
-708,2904.17,9,3428 Fair Oaks Point,98
-709,18016.4,10,617 South Hill,63
-710,13886.19,1,1 Meadow Valley Circle,83
-711,9326.27,1,7 Shasta Center,56
-712,18002.88,4,06 Carberry Alley,56
-713,12693.3,6,9503 Hauk Crossing,9
-714,4540.14,10,91 Barby Pass,59
-715,15349.37,1,41 Arizona Plaza,94
-716,2908.1,3,00296 Dayton Court,81
-717,4049.2,3,3 Independence Court,54
-718,15309.58,6,14 Manufacturers Lane,10
-719,10923.03,10,7 La Follette Place,85
-720,4574.47,2,190 Ridgeview Crossing,100
-721,11986.29,4,41 Glendale Hill,32
-722,18823.64,9,82 Hovde Court,39
-723,6995.56,10,1 Autumn Leaf Lane,57
-724,6215.15,7,4 Menomonie Hill,14
-725,1987.21,9,31915 Fuller Road,54
-726,8146.58,1,5 Brickson Park Center,98
-727,18536.21,1,8299 Cody Park,49
-728,16715.94,6,2 Meadow Vale Alley,61
-729,3350.53,3,079 Dayton Avenue,79
-730,15207.45,2,91412 Hovde Parkway,54
-731,18947.13,3,9 Northfield Avenue,19
-732,2045.14,9,6525 Straubel Trail,99
-733,17678.43,9,2 Old Gate Court,48
-734,3444.88,10,1201 Dennis Center,41
-735,1867.47,4,60445 Buhler Park,39
-736,10770.65,4,3842 5th Center,88
-737,3514.99,3,489 Sugar Alley,22
-738,16389.62,9,84 Mcbride Center,40
-739,1553.92,2,6566 Welch Alley,23
-740,4252.02,8,1340 Loeprich Pass,46
-741,9496.76,3,22 Debra Court,75
-742,1004.41,9,5 Gina Center,97
-743,17459.13,10,43958 Meadow Ridge Alley,93
-744,18238.54,4,73329 Toban Lane,96
-745,11959.48,9,66 Canary Center,36
-746,1093.38,10,721 Hoffman Lane,37
-747,5996.6,1,9184 Springview Parkway,97
-748,13376.31,7,20 Knutson Circle,51
-749,10327.34,8,28 Larry Hill,98
-750,12678.94,6,3 Fulton Street,33
-751,6313.96,4,1 Fairfield Way,88
-752,2435.08,8,4 Shasta Terrace,4
-753,4858.99,1,2430 Golf View Pass,38
-754,3120.15,5,94 Luster Terrace,88
-755,8393.85,10,4897 Monica Drive,16
-756,11765.31,9,0 Colorado Lane,60
-757,11482.47,5,90 Ruskin Trail,92
-758,12517.01,6,1163 Dunning Crossing,25
-759,9218.68,4,78 Fairfield Terrace,59
-760,14668.18,3,6 Arrowood Center,70
-761,3954.86,3,1106 Westridge Place,38
-762,361.6,1,47 Helena Parkway,72
-763,1465.99,8,556 Shasta Way,48
-764,6837.01,8,32 Sommers Point,74
-765,18730.15,8,84501 Summit Way,84
-766,17013.54,9,59375 Division Pass,67
-767,8959.18,5,2 Ramsey Park,5
-768,7392.07,10,603 Mariners Cove Avenue,79
-769,13970.48,8,3198 Almo Center,34
-770,8786.26,7,1683 Green Ridge Pass,74
-771,2753.47,4,60 Eagan Terrace,55
-772,19806.48,5,480 Dayton Junction,80
-773,6577.03,7,65248 Harbort Avenue,40
-774,3032.82,3,3206 International Alley,25
-775,9318.69,1,7554 Ryan Hill,54
-776,16397.68,10,73 South Drive,68
-777,7066.36,9,11981 Emmet Park,95
-778,13221.61,2,51 Garrison Avenue,8
-779,7612.37,2,33 Jenifer Hill,4
-780,6680.48,5,04 Amoth Street,32
-781,607.14,1,8182 Dapin Way,49
-782,17559.48,9,7 International Avenue,78
-783,7967.69,7,7 Bashford Junction,4
-784,12089.11,5,28977 Quincy Way,50
-785,3765.07,2,81 Summerview Point,38
-786,14335.79,6,0 Butterfield Junction,8
-787,8588.87,4,241 Arapahoe Trail,12
-788,14055.84,9,6388 Pearson Way,78
-789,377.54,9,221 Dapin Junction,84
-790,12939.22,8,77623 Corry Plaza,18
-791,5360.07,10,1241 Buhler Parkway,2
-792,11896.58,9,87745 Summer Ridge Way,32
-793,16643.77,5,4431 Hanson Point,73
-794,15015.23,6,50225 Gateway Crossing,72
-795,10268.79,6,5 Merchant Road,18
-796,1262.03,4,79 Kipling Point,68
-797,1170.68,6,301 Loomis Place,2
-798,1321.64,2,65 Sachtjen Park,88
-799,17027.95,7,49204 Helena Place,83
-800,3213.74,2,3035 Sundown Point,23
-801,1907.48,7,0 Mariners Cove Road,52
-802,18508.85,1,7988 Michigan Point,91
-803,13314.33,4,7614 Park Meadow Park,49
-804,19743.82,3,94 Lillian Alley,55
-805,12641.54,10,39104 Oriole Crossing,27
-806,14382.39,8,2 Kensington Place,85
-807,4129.26,5,038 Autumn Leaf Park,54
-808,8534.64,10,48893 Laurel Plaza,100
-809,14146.39,3,9 Buena Vista Plaza,76
-810,19774.14,4,6 Victoria Park,8
-811,1816.59,10,34 Graedel Park,99
-812,4936.31,4,0855 Algoma Junction,19
-813,9571.34,2,751 Johnson Junction,30
-814,5532.56,5,857 Comanche Drive,63
-815,3953.21,4,97 Golden Leaf Plaza,85
-816,2997.62,3,064 Fisk Road,84
-817,7148.99,8,9449 Cordelia Drive,48
-818,8196.0,8,453 Columbus Avenue,88
-819,16660.95,9,93762 Montana Point,94
-820,19003.47,8,132 Pennsylvania Circle,29
-821,9889.0,9,495 Vera Parkway,78
-822,12339.86,9,7 Sauthoff Way,76
-823,15209.24,8,48267 Kedzie Lane,43
-824,17463.87,8,0658 Maple Park,64
-825,7620.91,9,352 Welch Court,59
-826,2626.0,10,3356 8th Pass,61
-827,18693.34,1,86 Mayer Drive,19
-828,7197.2,5,32 Lindbergh Court,93
-829,11457.45,9,8961 Ridgeview Place,21
-830,15403.11,9,9 Blue Bill Park Court,22
-831,146.3,4,370 Del Mar Park,8
-832,5051.0,2,11205 Forest Run Trail,18
-833,18298.25,8,9687 Melrose Drive,30
-834,5713.69,1,817 Dorton Parkway,22
-835,14902.16,1,5275 Springs Trail,87
-836,15401.29,4,49216 Hayes Avenue,19
-837,15991.94,5,67836 Bayside Road,21
-838,18400.91,1,915 Moland Alley,20
-839,11550.74,6,0994 Pine View Way,77
-840,1525.27,7,071 Merry Lane,56
-841,10366.77,6,9 Little Fleur Pass,38
-842,12339.55,2,6505 Crownhardt Avenue,58
-843,10877.3,6,365 Superior Pass,62
-844,13564.45,2,72951 Mitchell Avenue,2
-845,3275.1,8,469 Northridge Plaza,20
-846,17335.35,2,76 Trailsway Court,87
-847,9445.73,9,4218 Melody Center,35
-848,7161.85,2,6 Marcy Point,62
-849,649.08,4,817 Mandrake Court,77
-850,19806.35,2,7 Hayes Hill,78
-851,10440.36,10,5 Main Center,60
-852,17750.0,2,3791 Northland Center,66
-853,1540.71,9,36 Southridge Pass,33
-854,1201.58,4,8687 Heath Trail,45
-855,16515.11,6,77 Pawling Alley,5
-856,19807.95,4,733 Lindbergh Court,81
-857,5143.92,7,0514 Scofield Alley,90
-858,7205.69,4,64931 Sundown Terrace,60
-859,1839.26,6,7553 Stuart Park,74
-860,15744.74,5,8 Moose Alley,94
-861,15108.55,5,969 Lindbergh Pass,94
-862,8986.36,8,33 Gina Place,4
-863,1725.01,8,9398 Ryan Way,80
-864,7867.24,6,63514 Welch Crossing,20
-865,14385.22,4,965 Ramsey Alley,35
-866,4662.72,2,0720 School Drive,29
-867,721.53,1,3 Esch Way,91
-868,1883.11,5,02452 Lakewood Gardens Road,80
-869,13028.72,8,42829 Arizona Lane,57
-870,8408.15,1,6 Mayer Park,83
-871,589.52,6,5 Summer Ridge Place,49
-872,16002.37,4,176 Cascade Parkway,88
-873,10283.29,10,24 Farragut Place,99
-874,10863.96,6,6017 Muir Parkway,59
-875,16834.82,8,66319 Fair Oaks Trail,42
-876,3855.51,3,172 Thackeray Street,37
-877,6868.72,8,81863 Esker Center,88
-878,2598.31,2,702 Pond Plaza,26
-879,19831.42,7,96234 Drewry Hill,57
-880,804.18,4,5560 Bonner Court,99
-881,19234.67,4,8 Hazelcrest Street,31
-882,3480.13,2,05526 Farragut Court,78
-883,11759.32,2,880 Northwestern Drive,12
-884,16055.33,2,68 Corben Alley,36
-885,10185.54,7,523 Veith Hill,9
-886,622.72,4,9 Hooker Court,41
-887,17941.94,5,513 Mallory Alley,40
-888,8595.89,4,0388 Lukken Court,30
-889,5375.55,3,42219 2nd Junction,96
-890,4231.19,7,33434 Spohn Terrace,27
-891,6342.53,6,1272 Crowley Alley,19
-892,17510.62,3,40 Green Ridge Drive,29
-893,2384.94,10,249 Knutson Center,4
-894,996.15,8,21046 La Follette Road,24
-895,9086.98,5,40 Anhalt Drive,7
-896,13200.1,10,1 Nobel Point,48
-897,18440.5,4,6843 Buena Vista Hill,88
-898,15051.67,7,43 Old Gate Point,60
-899,16858.76,6,05 Monterey Center,10
-900,14257.49,9,260 Lukken Circle,88
-901,19198.97,4,5 Comanche Drive,84
-902,16403.85,3,2375 6th Crossing,4
-903,18502.28,5,80 Westerfield Crossing,22
-904,5520.57,1,52488 Lillian Road,4
-905,12649.51,9,3 Anthes Lane,39
-906,3912.58,2,84320 Hollow Ridge Street,27
-907,19362.32,9,730 Elka Way,40
-908,18025.66,5,5522 Cascade Way,67
-909,1732.14,2,065 Grim Street,56
-910,7261.19,1,5 Kennedy Plaza,4
-911,5027.49,8,94987 Anthes Terrace,55
-912,6149.83,1,193 Tony Place,61
-913,6679.2,3,03921 Green Ridge Road,85
-914,18215.89,7,33 Armistice Hill,64
-915,19074.05,10,61 Service Drive,1
-916,15425.8,9,0464 Hoard Center,53
-917,10378.89,7,1243 Lien Street,93
-918,8555.52,7,95 Sutteridge Avenue,33
-919,17043.74,9,313 David Point,93
-920,19548.03,6,0 Almo Trail,81
-921,15583.96,5,8639 Chive Road,57
-922,16249.09,1,4538 Sommers Avenue,37
-923,19928.09,5,1800 Bartelt Avenue,75
-924,13746.42,2,44 Mayfield Avenue,82
-925,6125.06,5,7581 Ryan Pass,23
-926,1151.98,10,40 Pond Parkway,82
-927,2080.2,4,1365 Westridge Parkway,65
-928,139.44,4,11289 Charing Cross Drive,79
-929,12409.72,3,50 Lindbergh Pass,20
-930,13937.4,8,61489 Shoshone Circle,6
-931,12327.51,8,89 Manufacturers Park,96
-932,18164.65,10,010 Manley Avenue,63
-933,7693.28,1,3789 Lakewood Alley,82
-934,10446.37,6,50437 Parkside Point,67
-935,7360.0,9,5211 Pearson Drive,55
-936,14550.77,2,88810 Dahle Way,50
-937,11668.0,2,183 Eliot Trail,65
-938,1600.52,1,79030 Eastwood Road,42
-939,16974.3,4,882 Sunfield Lane,5
-940,4482.67,7,4 Canary Hill,9
-941,4813.63,10,0 Waubesa Hill,54
-942,9682.21,2,3577 Bobwhite Place,95
-943,18126.56,6,109 Butternut Point,37
-944,696.11,3,74 Melvin Circle,40
-945,11934.23,8,83 Longview Alley,98
-946,1369.41,10,8 Swallow Way,60
-947,9695.63,3,22916 Sunfield Parkway,34
-948,11526.88,9,180 2nd Center,53
-949,9386.38,5,099 Reinke Street,28
-950,19687.69,1,67202 Glendale Parkway,11
-951,17262.24,3,49 Superior Avenue,68
-952,6455.99,5,7219 Ohio Terrace,75
-953,1328.02,5,70 Fairfield Point,50
-954,7072.65,4,5334 Grasskamp Pass,66
-955,19804.88,2,486 Hauk Trail,98
-956,6571.29,3,753 Upham Street,76
-957,922.04,8,90489 Barby Parkway,7
-958,10951.78,2,43209 Cottonwood Park,29
-959,3018.18,3,45 Anniversary Court,92
-960,14774.57,8,30053 Carberry Crossing,61
-961,7636.15,9,625 Morningstar Place,44
-962,9951.2,9,93493 Lien Circle,49
-963,8032.17,7,6683 Steensland Road,19
-964,4486.89,6,5 Thierer Pass,31
-965,969.76,8,63312 Logan Place,46
-966,6635.83,3,882 Atwood Junction,44
-967,3390.12,8,957 Northwestern Point,43
-968,13094.65,3,82 Moland Hill,73
-969,9796.96,6,20218 Lawn Avenue,65
-970,6621.84,9,4186 Mariners Cove Hill,81
-971,15417.95,1,59448 Blackbird Hill,91
-972,11121.31,6,7 Stoughton Center,38
-973,2076.03,2,19 Hansons Trail,1
-974,15224.39,8,94 Ruskin Circle,65
-975,18723.61,3,46369 Mendota Place,24
-976,5475.51,1,52625 Bellgrove Crossing,39
-977,15440.9,1,94 Glendale Center,31
-978,1768.07,10,36 Wayridge Junction,34
-979,2948.93,2,32282 Artisan Drive,53
-980,4817.01,4,91 East Pass,80
-981,5043.08,4,817 Golf Course Alley,30
-982,16410.14,2,9449 Crescent Oaks Lane,84
-983,6502.26,9,756 Hansons Road,26
-984,5519.07,4,3411 Sycamore Trail,39
-985,13917.15,6,9179 Forster Street,54
-986,7147.52,6,217 Hansons Road,80
-987,10181.05,7,56 Gulseth Parkway,40
-988,18778.57,5,71992 Anderson Terrace,30
-989,5815.8,2,4244 Artisan Terrace,100
-990,12323.66,7,86 Delladonna Drive,99
-991,16522.31,8,76 Main Plaza,80
-992,7838.39,7,0502 Sundown Alley,22
-993,19953.2,7,23612 Ridgeview Circle,50
-994,16443.38,3,52 Clyde Gallagher Point,74
-995,5655.77,1,4998 Vidon Plaza,40
-996,5385.5,10,737 Menomonie Center,90
-997,8044.1,3,95 Westport Hill,8
-998,5377.39,8,2562 Tomscot Place,15
-999,9095.52,3,7183 Derek Drive,21
-1000,759.85,10,70315 Michigan Park,29
+id,weight,priority
+1,423.5,6
+2,9227.56,9
+3,4158.62,8
+4,16466.12,8
+5,9960.87,2
+6,882.87,5
+7,12754.34,5
+8,2769.22,9
+9,592.52,5
+10,7701.41,8
+11,13099.21,4
+12,340.78,5
+13,18229.76,1
+14,17790.63,9
+15,11894.34,9
+16,1678.59,8
+17,4583.71,5
+18,11052.88,5
+19,7765.66,5
+20,13747.81,9
+21,3966.25,1
+22,15895.97,10
+23,15124.55,1
+24,5825.32,10
+25,15134.78,4
+26,7865.76,2
+27,13079.3,5
+28,14097.58,1
+29,1795.11,4
+30,634.4,6
+31,17772.18,8
+32,9620.1,2
+33,19712.8,6
+34,9583.43,3
+35,16840.78,4
+36,17448.35,9
+37,1421.06,5
+38,11568.74,3
+39,12119.85,3
+40,1699.61,4
+41,7956.85,1
+42,5211.44,5
+43,17598.82,5
+44,4743.13,3
+45,19754.81,4
+46,10076.72,5
+47,11433.58,5
+48,10.98,3
+49,1096.2,1
+50,3841.73,5
+51,2567.98,4
+52,15043.93,2
+53,4116.68,4
+54,1766.35,7
+55,13149.75,1
+56,3440.76,4
+57,18859.85,2
+58,9400.49,2
+59,7801.41,9
+60,10899.55,2
+61,16145.46,7
+62,7399.28,1
+63,1040.52,6
+64,11396.01,8
+65,7522.62,5
+66,8256.61,9
+67,6682.83,3
+68,18208.21,2
+69,8468.91,9
+70,18428.16,3
+71,3061.63,4
+72,19022.38,8
+73,6286.42,1
+74,128.57,8
+75,15957.41,2
+76,9267.53,8
+77,17925.09,1
+78,5492.36,9
+79,548.23,1
+80,15960.12,3
+81,4531.0,9
+82,5275.8,5
+83,12706.31,6
+84,3739.01,4
+85,19756.0,10
+86,8684.31,9
+87,13907.59,5
+88,17706.0,9
+89,1711.94,9
+90,1829.17,6
+91,3894.29,1
+92,19700.0,1
+93,5734.27,5
+94,16891.71,1
+95,11820.31,5
+96,2164.69,2
+97,11148.51,6
+98,4930.33,6
+99,8373.04,10
+100,19975.51,9
+101,17106.34,8
+102,12494.85,6
+103,6829.16,7
+104,4361.91,5
+105,11560.74,5
+106,11503.06,7
+107,16911.81,10
+108,3122.96,10
+109,786.6,2
+110,16559.09,3
+111,15442.65,10
+112,6262.3,10
+113,1657.11,1
+114,1365.02,9
+115,17973.08,1
+116,10538.65,2
+117,14189.79,3
+118,67.57,10
+119,17125.95,6
+120,17622.23,7
+121,19068.56,7
+122,16364.38,4
+123,1043.52,5
+124,9025.0,8
+125,18808.33,1
+126,9178.37,1
+127,1799.9,9
+128,14469.67,7
+129,12531.0,10
+130,11564.92,9
+131,11907.24,7
+132,4563.7,9
+133,3495.31,9
+134,2615.88,6
+135,7974.77,3
+136,17637.22,6
+137,3432.72,1
+138,39.19,9
+139,5023.3,3
+140,2960.43,10
+141,9976.87,3
+142,17983.87,7
+143,11640.13,10
+144,4745.15,1
+145,1161.86,5
+146,7465.94,4
+147,356.76,7
+148,10152.51,1
+149,13527.85,7
+150,19540.95,1
+151,18306.52,7
+152,14011.15,4
+153,15271.42,3
+154,3802.39,10
+155,19102.95,2
+156,3428.22,6
+157,681.38,9
+158,17767.58,2
+159,3430.2,9
+160,7267.16,4
+161,7755.63,6
+162,5160.49,4
+163,1798.13,3
+164,10163.14,2
+165,9583.72,3
+166,2546.08,1
+167,9085.83,1
+168,14097.24,8
+169,2260.07,2
+170,15217.4,9
+171,11847.2,6
+172,17992.58,5
+173,18347.86,7
+174,13506.9,10
+175,17693.75,6
+176,11843.99,1
+177,2975.52,4
+178,9513.47,3
+179,3939.59,1
+180,19229.4,4
+181,4580.35,5
+182,8906.28,4
+183,12122.96,3
+184,3118.94,5
+185,19410.25,3
+186,3323.3,9
+187,19331.66,3
+188,15969.13,3
+189,9190.5,6
+190,15496.19,2
+191,12418.42,1
+192,5622.93,9
+193,15595.38,8
+194,14106.23,9
+195,8729.97,10
+196,7472.01,5
+197,12307.42,1
+198,5762.7,8
+199,5305.14,9
+200,4139.01,3
+201,15762.88,4
+202,690.36,10
+203,1330.88,10
+204,14031.53,7
+205,5974.49,10
+206,11787.3,9
+207,7807.57,4
+208,7763.2,3
+209,6503.72,4
+210,8378.26,5
+211,6604.0,1
+212,10896.69,1
+213,16974.94,6
+214,8769.3,2
+215,18349.7,1
+216,2152.66,10
+217,5893.13,2
+218,1650.31,7
+219,4219.14,7
+220,13617.57,1
+221,5702.24,6
+222,5356.83,3
+223,6418.77,8
+224,10465.92,8
+225,13405.23,6
+226,11298.15,9
+227,13319.02,7
+228,5725.42,3
+229,12569.04,4
+230,7383.3,4
+231,15035.9,10
+232,4520.85,2
+233,14593.9,8
+234,2855.45,7
+235,7713.76,6
+236,8014.48,3
+237,9949.4,9
+238,5067.96,8
+239,6137.52,1
+240,8852.28,2
+241,11692.39,3
+242,16408.0,2
+243,636.82,4
+244,12712.28,7
+245,18372.49,9
+246,1825.44,10
+247,8982.8,9
+248,9529.69,6
+249,18469.14,1
+250,1535.9,9
+251,5062.98,9
+252,14254.4,6
+253,9287.62,2
+254,9964.39,4
+255,12248.9,4
+256,14239.89,10
+257,5451.26,7
+258,4946.83,1
+259,11442.57,7
+260,12353.94,4
+261,12285.63,5
+262,14336.72,3
+263,1679.75,10
+264,6213.07,7
+265,17812.44,10
+266,10708.95,1
+267,6723.65,5
+268,19590.05,10
+269,19822.23,1
+270,16119.83,4
+271,9121.78,8
+272,13767.86,4
+273,5193.02,2
+274,11106.44,10
+275,7643.01,2
+276,18365.02,10
+277,1862.15,6
+278,5533.3,1
+279,362.91,10
+280,16433.52,4
+281,2085.84,5
+282,5797.41,7
+283,11773.92,8
+284,13483.82,1
+285,18728.85,8
+286,3400.43,5
+287,7509.84,8
+288,8678.49,10
+289,2837.28,4
+290,3800.25,6
+291,9535.86,5
+292,6552.79,2
+293,17545.04,6
+294,5746.4,2
+295,18690.65,3
+296,2868.81,10
+297,9044.45,5
+298,19401.6,7
+299,15515.91,6
+300,2534.6,3
+301,1544.38,8
+302,2248.9,10
+303,18691.95,4
+304,13728.61,3
+305,13260.12,10
+306,6291.33,9
+307,5139.76,9
+308,7162.57,3
+309,4096.09,10
+310,7743.75,9
+311,10308.13,6
+312,4990.22,9
+313,4725.63,9
+314,7675.69,8
+315,3087.7,5
+316,15137.62,9
+317,4416.08,3
+318,2643.04,6
+319,9696.01,2
+320,2.27,9
+321,3817.42,9
+322,7791.84,9
+323,16678.66,2
+324,16686.24,8
+325,19842.27,2
+326,17058.81,4
+327,2635.73,8
+328,19623.48,9
+329,13279.21,9
+330,7258.95,6
+331,2319.52,7
+332,13530.67,1
+333,4706.44,3
+334,634.22,7
+335,18066.12,6
+336,12702.25,2
+337,6345.29,5
+338,15557.87,1
+339,17095.36,8
+340,6727.23,9
+341,18114.17,3
+342,4150.37,9
+343,2715.86,6
+344,1264.13,5
+345,15391.51,5
+346,16209.24,10
+347,8543.61,5
+348,14501.0,6
+349,10120.59,4
+350,19229.9,4
+351,6949.49,5
+352,6536.33,6
+353,13075.67,3
+354,5751.42,1
+355,8095.89,6
+356,10344.6,3
+357,6318.46,9
+358,2765.49,7
+359,1345.2,7
+360,1372.3,4
+361,15281.56,7
+362,18105.49,1
+363,12563.25,6
+364,6035.07,8
+365,10913.19,10
+366,14263.96,10
+367,15562.63,9
+368,7846.73,5
+369,17282.53,4
+370,4508.33,4
+371,14646.7,2
+372,5871.55,8
+373,8598.26,6
+374,2681.72,10
+375,8359.08,1
+376,6391.09,10
+377,1692.69,5
+378,16576.66,8
+379,9854.58,4
+380,2558.32,10
+381,17140.76,2
+382,7412.82,5
+383,7124.94,6
+384,8360.87,5
+385,8807.24,1
+386,3857.83,7
+387,2526.92,10
+388,14801.88,2
+389,6439.52,6
+390,11361.07,10
+391,12758.52,4
+392,5850.9,9
+393,14215.99,1
+394,18510.05,1
+395,7899.61,2
+396,14346.29,10
+397,17156.22,4
+398,7310.25,7
+399,10164.54,6
+400,2378.04,5
+401,6620.58,3
+402,13013.28,5
+403,8846.77,3
+404,13983.4,5
+405,19324.19,3
+406,5445.59,5
+407,4418.19,3
+408,3402.69,2
+409,438.08,6
+410,6951.57,2
+411,15729.4,9
+412,4854.18,4
+413,7918.07,3
+414,3573.96,1
+415,9727.88,3
+416,10974.0,6
+417,1894.32,1
+418,12951.81,6
+419,15499.25,3
+420,8437.31,1
+421,3451.52,1
+422,3804.57,2
+423,10443.58,7
+424,16055.78,6
+425,8363.31,5
+426,7347.6,6
+427,14374.03,8
+428,7247.51,1
+429,17395.08,3
+430,5455.63,5
+431,14861.21,6
+432,18217.28,4
+433,4835.82,10
+434,10615.02,2
+435,3087.91,10
+436,14013.47,10
+437,4079.16,1
+438,12783.34,4
+439,13621.72,4
+440,16857.36,6
+441,13207.59,2
+442,14688.58,10
+443,9115.32,2
+444,2933.33,5
+445,15382.3,8
+446,12148.49,8
+447,6359.29,1
+448,15820.61,10
+449,10356.8,5
+450,17339.87,6
+451,15583.84,10
+452,1953.16,7
+453,7289.41,7
+454,884.94,9
+455,7496.44,4
+456,2391.38,5
+457,7180.93,9
+458,11819.67,1
+459,6265.17,3
+460,7676.29,10
+461,1558.7,9
+462,13998.63,3
+463,9818.66,8
+464,12170.82,3
+465,11796.49,8
+466,4352.78,8
+467,1479.08,2
+468,14354.01,8
+469,9682.18,5
+470,14401.67,2
+471,19347.42,2
+472,12208.23,4
+473,1065.02,10
+474,19356.91,9
+475,13614.58,5
+476,12720.53,5
+477,6456.67,1
+478,12312.0,4
+479,7051.51,4
+480,634.18,4
+481,9289.0,7
+482,1791.13,8
+483,15999.74,8
+484,59.86,8
+485,19196.1,2
+486,2847.24,3
+487,17203.0,8
+488,14110.59,2
+489,18876.58,6
+490,3090.88,4
+491,3759.16,6
+492,6692.74,6
+493,3279.82,5
+494,8189.45,8
+495,9255.57,7
+496,16905.51,6
+497,849.42,5
+498,6783.57,9
+499,18379.93,7
+500,9602.05,10
+501,12721.07,10
+502,10081.65,5
+503,8972.33,5
+504,17111.25,3
+505,5844.63,6
+506,5526.8,1
+507,18731.89,4
+508,12815.91,3
+509,8696.07,7
+510,855.47,1
+511,5707.94,9
+512,2152.64,2
+513,12318.32,10
+514,911.32,7
+515,15147.6,8
+516,14040.54,4
+517,9609.72,5
+518,7410.48,2
+519,15698.24,1
+520,19478.51,10
+521,8343.61,3
+522,11603.67,3
+523,10453.46,10
+524,16579.59,10
+525,17421.0,4
+526,3711.19,4
+527,5771.75,1
+528,7289.31,2
+529,10747.07,9
+530,19523.46,1
+531,2970.8,5
+532,14611.55,5
+533,10360.51,1
+534,5954.54,1
+535,12321.81,3
+536,5174.65,7
+537,3059.84,8
+538,6006.48,1
+539,18809.4,2
+540,133.06,6
+541,13232.4,1
+542,2705.35,2
+543,8823.66,1
+544,4996.52,5
+545,4182.55,8
+546,18030.97,10
+547,735.59,6
+548,15679.58,2
+549,2294.45,4
+550,1386.48,7
+551,6042.42,3
+552,1228.58,7
+553,12743.53,2
+554,16620.07,4
+555,12040.67,3
+556,12290.06,9
+557,13388.72,6
+558,9515.35,8
+559,15997.6,1
+560,18953.27,5
+561,726.09,9
+562,1708.0,5
+563,11491.3,10
+564,7167.43,10
+565,1428.68,2
+566,7504.23,4
+567,6042.33,9
+568,1715.52,4
+569,15813.2,5
+570,3667.51,7
+571,11340.65,5
+572,8924.02,5
+573,17356.97,5
+574,17455.42,7
+575,3834.21,3
+576,7606.26,5
+577,13579.19,1
+578,13133.76,7
+579,10181.07,4
+580,8769.45,4
+581,8901.89,4
+582,1419.32,8
+583,1409.17,8
+584,13222.27,1
+585,5470.11,7
+586,5812.72,6
+587,17164.77,1
+588,18424.14,8
+589,11191.15,4
+590,1014.67,7
+591,11020.24,6
+592,8293.21,2
+593,8986.45,8
+594,1425.81,2
+595,6974.38,2
+596,2511.23,5
+597,3459.66,10
+598,19410.56,9
+599,586.3,6
+600,16614.1,5
+601,2811.78,10
+602,48.75,8
+603,13970.64,2
+604,386.21,1
+605,18624.57,9
+606,6036.45,9
+607,19972.09,2
+608,5215.56,8
+609,9296.81,1
+610,1364.31,1
+611,13792.01,7
+612,2353.47,5
+613,17766.54,4
+614,5714.45,5
+615,9623.32,8
+616,5196.02,5
+617,14287.17,5
+618,18254.42,3
+619,18238.56,10
+620,9036.05,1
+621,10345.8,2
+622,5889.17,1
+623,10907.68,6
+624,3845.88,2
+625,8218.44,5
+626,9584.78,10
+627,2478.98,10
+628,18634.49,10
+629,8863.9,2
+630,9240.69,10
+631,13149.84,9
+632,6827.4,10
+633,9677.42,3
+634,3030.06,2
+635,10802.66,5
+636,18602.95,2
+637,1097.58,4
+638,9396.74,2
+639,19052.25,4
+640,5131.64,6
+641,3149.19,8
+642,12093.66,7
+643,602.84,4
+644,11348.6,7
+645,17777.24,10
+646,14948.35,7
+647,13219.63,7
+648,12028.49,7
+649,3074.6,6
+650,13878.62,10
+651,12664.28,9
+652,10682.24,6
+653,16244.92,9
+654,14387.86,7
+655,13302.93,1
+656,5375.21,6
+657,640.59,7
+658,11671.96,9
+659,15880.95,2
+660,14058.67,2
+661,16625.47,8
+662,4854.02,3
+663,14990.16,9
+664,12518.31,4
+665,7572.78,6
+666,3877.34,8
+667,13641.05,7
+668,13361.76,2
+669,7352.55,2
+670,15776.87,9
+671,8788.92,4
+672,13377.6,7
+673,11283.59,3
+674,11084.56,3
+675,3246.04,10
+676,9630.3,10
+677,2810.81,4
+678,8041.16,2
+679,19747.9,6
+680,5793.44,6
+681,11679.31,9
+682,5108.52,2
+683,832.0,7
+684,4219.32,10
+685,17393.03,9
+686,8582.13,5
+687,2802.78,10
+688,484.54,5
+689,7501.95,8
+690,11103.69,8
+691,5656.46,9
+692,450.25,2
+693,6790.59,4
+694,16366.62,10
+695,1250.56,7
+696,19216.42,9
+697,12206.91,1
+698,5778.47,6
+699,10664.37,9
+700,2668.08,10
+701,13878.14,1
+702,6998.95,9
+703,16720.48,7
+704,4965.23,6
+705,9311.1,2
+706,15371.24,2
+707,13145.72,7
+708,2904.17,9
+709,18016.4,10
+710,13886.19,1
+711,9326.27,1
+712,18002.88,4
+713,12693.3,6
+714,4540.14,10
+715,15349.37,1
+716,2908.1,3
+717,4049.2,3
+718,15309.58,6
+719,10923.03,10
+720,4574.47,2
+721,11986.29,4
+722,18823.64,9
+723,6995.56,10
+724,6215.15,7
+725,1987.21,9
+726,8146.58,1
+727,18536.21,1
+728,16715.94,6
+729,3350.53,3
+730,15207.45,2
+731,18947.13,3
+732,2045.14,9
+733,17678.43,9
+734,3444.88,10
+735,1867.47,4
+736,10770.65,4
+737,3514.99,3
+738,16389.62,9
+739,1553.92,2
+740,4252.02,8
+741,9496.76,3
+742,1004.41,9
+743,17459.13,10
+744,18238.54,4
+745,11959.48,9
+746,1093.38,10
+747,5996.6,1
+748,13376.31,7
+749,10327.34,8
+750,12678.94,6
+751,6313.96,4
+752,2435.08,8
+753,4858.99,1
+754,3120.15,5
+755,8393.85,10
+756,11765.31,9
+757,11482.47,5
+758,12517.01,6
+759,9218.68,4
+760,14668.18,3
+761,3954.86,3
+762,361.6,1
+763,1465.99,8
+764,6837.01,8
+765,18730.15,8
+766,17013.54,9
+767,8959.18,5
+768,7392.07,10
+769,13970.48,8
+770,8786.26,7
+771,2753.47,4
+772,19806.48,5
+773,6577.03,7
+774,3032.82,3
+775,9318.69,1
+776,16397.68,10
+777,7066.36,9
+778,13221.61,2
+779,7612.37,2
+780,6680.48,5
+781,607.14,1
+782,17559.48,9
+783,7967.69,7
+784,12089.11,5
+785,3765.07,2
+786,14335.79,6
+787,8588.87,4
+788,14055.84,9
+789,377.54,9
+790,12939.22,8
+791,5360.07,10
+792,11896.58,9
+793,16643.77,5
+794,15015.23,6
+795,10268.79,6
+796,1262.03,4
+797,1170.68,6
+798,1321.64,2
+799,17027.95,7
+800,3213.74,2
+801,1907.48,7
+802,18508.85,1
+803,13314.33,4
+804,19743.82,3
+805,12641.54,10
+806,14382.39,8
+807,4129.26,5
+808,8534.64,10
+809,14146.39,3
+810,19774.14,4
+811,1816.59,10
+812,4936.31,4
+813,9571.34,2
+814,5532.56,5
+815,3953.21,4
+816,2997.62,3
+817,7148.99,8
+818,8196.0,8
+819,16660.95,9
+820,19003.47,8
+821,9889.0,9
+822,12339.86,9
+823,15209.24,8
+824,17463.87,8
+825,7620.91,9
+826,2626.0,10
+827,18693.34,1
+828,7197.2,5
+829,11457.45,9
+830,15403.11,9
+831,146.3,4
+832,5051.0,2
+833,18298.25,8
+834,5713.69,1
+835,14902.16,1
+836,15401.29,4
+837,15991.94,5
+838,18400.91,1
+839,11550.74,6
+840,1525.27,7
+841,10366.77,6
+842,12339.55,2
+843,10877.3,6
+844,13564.45,2
+845,3275.1,8
+846,17335.35,2
+847,9445.73,9
+848,7161.85,2
+849,649.08,4
+850,19806.35,2
+851,10440.36,10
+852,17750.0,2
+853,1540.71,9
+854,1201.58,4
+855,16515.11,6
+856,19807.95,4
+857,5143.92,7
+858,7205.69,4
+859,1839.26,6
+860,15744.74,5
+861,15108.55,5
+862,8986.36,8
+863,1725.01,8
+864,7867.24,6
+865,14385.22,4
+866,4662.72,2
+867,721.53,1
+868,1883.11,5
+869,13028.72,8
+870,8408.15,1
+871,589.52,6
+872,16002.37,4
+873,10283.29,10
+874,10863.96,6
+875,16834.82,8
+876,3855.51,3
+877,6868.72,8
+878,2598.31,2
+879,19831.42,7
+880,804.18,4
+881,19234.67,4
+882,3480.13,2
+883,11759.32,2
+884,16055.33,2
+885,10185.54,7
+886,622.72,4
+887,17941.94,5
+888,8595.89,4
+889,5375.55,3
+890,4231.19,7
+891,6342.53,6
+892,17510.62,3
+893,2384.94,10
+894,996.15,8
+895,9086.98,5
+896,13200.1,10
+897,18440.5,4
+898,15051.67,7
+899,16858.76,6
+900,14257.49,9
+901,19198.97,4
+902,16403.85,3
+903,18502.28,5
+904,5520.57,1
+905,12649.51,9
+906,3912.58,2
+907,19362.32,9
+908,18025.66,5
+909,1732.14,2
+910,7261.19,1
+911,5027.49,8
+912,6149.83,1
+913,6679.2,3
+914,18215.89,7
+915,19074.05,10
+916,15425.8,9
+917,10378.89,7
+918,8555.52,7
+919,17043.74,9
+920,19548.03,6
+921,15583.96,5
+922,16249.09,1
+923,19928.09,5
+924,13746.42,2
+925,6125.06,5
+926,1151.98,10
+927,2080.2,4
+928,139.44,4
+929,12409.72,3
+930,13937.4,8
+931,12327.51,8
+932,18164.65,10
+933,7693.28,1
+934,10446.37,6
+935,7360.0,9
+936,14550.77,2
+937,11668.0,2
+938,1600.52,1
+939,16974.3,4
+940,4482.67,7
+941,4813.63,10
+942,9682.21,2
+943,18126.56,6
+944,696.11,3
+945,11934.23,8
+946,1369.41,10
+947,9695.63,3
+948,11526.88,9
+949,9386.38,5
+950,19687.69,1
+951,17262.24,3
+952,6455.99,5
+953,1328.02,5
+954,7072.65,4
+955,19804.88,2
+956,6571.29,3
+957,922.04,8
+958,10951.78,2
+959,3018.18,3
+960,14774.57,8
+961,7636.15,9
+962,9951.2,9
+963,8032.17,7
+964,4486.89,6
+965,969.76,8
+966,6635.83,3
+967,3390.12,8
+968,13094.65,3
+969,9796.96,6
+970,6621.84,9
+971,15417.95,1
+972,11121.31,6
+973,2076.03,2
+974,15224.39,8
+975,18723.61,3
+976,5475.51,1
+977,15440.9,1
+978,1768.07,10
+979,2948.93,2
+980,4817.01,4
+981,5043.08,4
+982,16410.14,2
+983,6502.26,9
+984,5519.07,4
+985,13917.15,6
+986,7147.52,6
+987,10181.05,7
+988,18778.57,5
+989,5815.8,2
+990,12323.66,7
+991,16522.31,8
+992,7838.39,7
+993,19953.2,7
+994,16443.38,3
+995,5655.77,1
+996,5385.5,10
+997,8044.1,3
+998,5377.39,8
+999,9095.52,3
+1000,759.85,10
