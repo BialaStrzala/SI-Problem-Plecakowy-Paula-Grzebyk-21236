@@ -1,5 +1,5 @@
 # Problem optymalizacji ładunku paczek - każdy list/paczka ma przypisaną wagę [g] oraz priorytet [1-10], z jakim musi zostać dostarczona.
-# Furgonetka ma limit przewozu 300kg oraz 100 różnych paczek na raz.
+# Furgonetka ma limit przewozu 100kg oraz 10 różnych paczek na raz.
 
 import csv
 import random
@@ -13,7 +13,7 @@ HMS = 10
 # HMCR
 HMCR = 0.7
 # Liczba iteracji
-NI = 5
+NI = 1000
 # Dane zadania
 limit_wagi = 100*1000           #[kg->g]
 limit_liczby = 10               #[paczki]
@@ -46,44 +46,36 @@ def init_random_hm(csv_file):
             #print('wybrana paczka (waga): ' + f"{paczka[0]}")
             zestaw.append(paczka)
             suma_wagi += paczka[0]
-            #print('dodaje paczke do zestawu')
         HM.append(zestaw)
         HMwartosc.append(fitness(zestaw))
-        print('=== Kolejne startowe zestawy ===')
-        print('Liczba paczek = ' + f"{len(zestaw)}" + ', suma_wagi = ' + f"{suma_wagi:.2f}")
+        #print('Liczba paczek = ' + f"{len(zestaw)}" + ', suma_wagi = ' + f"{suma_wagi:.2f}")
 
 
 # Funkcja przystosowania
 def fitness(zestaw):
     suma_priorytetow = sum(paczka[1] for paczka in zestaw)
     suma_wag = sum(paczka[0] for paczka in zestaw)
-    print('=== sum pr zestawu: ')
-    print(suma_priorytetow)
-    print('=== suma wag zestawu:')
-    print(suma_wag)
     if suma_wag > limit_wagi:
-        print('za duza waga')
-        suma_priorytetow = suma_priorytetow/2
+        suma_priorytetow = suma_priorytetow/10
     return suma_priorytetow
 
 
+# Iteracje
 def run():
     i = 0
-    j = 0
     while i<NI:
         i = i+1
+        #print(f"====== ITERACJA {i}/{NI}")
         nowy_zestaw = []
-        while j<limit_liczby:
+        for j in range(limit_liczby):
             j = j+1
             r = random.randint(0, 100)
             if r < 70:
-                k = random.randint(0,limit_liczby)
-                #nowy_zestaw.append(HM[k][0]) # pierwsza paczka z losowego zestawu!!!
-                nowy_zestaw.append(random.choice(wszystkie_paczki))
+                k = random.randint(0, len(HM)-1)
+                nowy_zestaw.append(HM[k][j-1]) # n-ta paczka z losowego zestawu
             else:
                 nowy_zestaw.append(random.choice(wszystkie_paczki)) # losowa paczka ze wszystkich
-            print('======nowy zestaw=========')
-            print(nowy_zestaw)
+        
         if fitness(nowy_zestaw) > min(HMwartosc): # zamiana zestawu z min fitness na nowy zestaw
             index = HMwartosc.index(min(HMwartosc))
             HM.pop(index)
@@ -92,24 +84,25 @@ def run():
             HMwartosc.append(fitness(nowy_zestaw))
     
     # Wyniki
-    print(max(HMwartosc))
+    print("\n====== WYNIKI ======")
+    print(f"Suma priorytetow najlepszego zestawu: {max(HMwartosc)} (max = {limit_liczby*10})")
+    w = sum(paczka[0] for paczka in HM[HMwartosc.index(max(HMwartosc))])
+    print(f"Suma wagi najlepszego zestawu: {w:.2f}")
+    print("Najlepszy zestaw paczek:")
     print(HM[HMwartosc.index(max(HMwartosc))])
+    if w>limit_wagi:
+        print("Zestaw przekracza limit wagi")
 
 
 def main():
+    print("\n====== ALGORYTM PLECAKOWY ======")
     init_random_hm('Paczki_dane.csv')
-    print(HM)
-    print('=== HM ===')
-    print('Liczba zestawow = ' + f"{len(HM)}")
-    print('Dziala')
-    fitness(HM[0])
-
-    print('index min hmwartosc: ')
+    print("=== Poczatkowe HMwartosc ===")
     print(HMwartosc)
-    print(min(HMwartosc))
-    print(HMwartosc.index(min(HMwartosc)))
-
+    print("\n=== Najlepsze rozwiazanie dla poczatkowego HM ===")
+    print(f"Suma priorytetow zestawu: {max(HMwartosc)}")
+    w = sum(paczka[0] for paczka in HM[HMwartosc.index(max(HMwartosc))])
+    print(f"Suma wagi zestawu: {w:.2f}")
     run()
-    #print(HM[0])
 
 main()
