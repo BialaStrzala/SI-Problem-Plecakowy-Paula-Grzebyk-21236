@@ -4,6 +4,8 @@
 import csv
 import random
 
+# Wszystkie paczki
+wszystkie_paczki = []
 # Tablica z rozwiazaniami
 HM = []
 # Tablica z wartosciami rozwiazan
@@ -11,16 +13,13 @@ HMwartosc = []
 # Ilosc startowych rozwiazan
 HMS = 10
 # HMCR
-HMCR = 0.7
+HMCR = 70                       #[%]
 # Liczba iteracji
 NI = 1000
 # Dane zadania
 limit_wagi = 100*1000           #[kg->g]
 limit_liczby = 10               #[paczki]
-wszystkie_paczki = []
 
-# r = random 0-100, r<70 -> pierwsza paczka z random zestawu 1-10, r>30 - druga paczka random z csv... az do 10 paczek
-# fitness(nowy zestaw) > min fitness(HM) -> zamienia HM
 
 # Losowo wybiera pierwotny zbior paczek
 def init_random_hm(csv_file):
@@ -35,20 +34,15 @@ def init_random_hm(csv_file):
             waga = float(row['weight'])
             priorytet = float(row['priority'])
             wszystkie_paczki.append((waga, priorytet))
-            #print(f"{waga}, {priorytet}")
 
-    # n-zestawow (HMS)
+    # n-zestawow (HM)
     for _ in range(HMS):
         zestaw = []
-        suma_wagi = 0
         while len(zestaw) < limit_liczby:
             paczka = random.choice(wszystkie_paczki)
-            #print('wybrana paczka (waga): ' + f"{paczka[0]}")
             zestaw.append(paczka)
-            suma_wagi += paczka[0]
         HM.append(zestaw)
         HMwartosc.append(fitness(zestaw))
-        #print('Liczba paczek = ' + f"{len(zestaw)}" + ', suma_wagi = ' + f"{suma_wagi:.2f}")
 
 
 # Funkcja przystosowania
@@ -56,7 +50,7 @@ def fitness(zestaw):
     suma_priorytetow = sum(paczka[1] for paczka in zestaw)
     suma_wag = sum(paczka[0] for paczka in zestaw)
     if suma_wag > limit_wagi:
-        suma_priorytetow = suma_priorytetow/10
+        suma_priorytetow = suma_priorytetow/2
     return suma_priorytetow
 
 
@@ -67,14 +61,23 @@ def run():
         i = i+1
         #print(f"====== ITERACJA {i}/{NI}")
         nowy_zestaw = []
-        for j in range(limit_liczby):
-            j = j+1
-            r = random.randint(0, 100)
-            if r < 70:
+        r = random.randint(0, 100)
+
+        # 1. Z HM - 70%
+        if r < HMCR:
+            for j in range(limit_liczby):
+                j = j+1
                 k = random.randint(0, len(HM)-1)
                 nowy_zestaw.append(HM[k][j-1]) # n-ta paczka z losowego zestawu
-            else:
-                nowy_zestaw.append(random.choice(wszystkie_paczki)) # losowa paczka ze wszystkich
+            # 3. Losowa mutacja - 1%
+            if r == 0:
+                nowy_zestaw.pop(random.randint(0, len(HM)-1))
+                nowy_zestaw.append(random.choice(wszystkie_paczki))
+        # 2. Calkowicie losowy zestaw - 30%
+        else:
+            for j in range(limit_liczby):
+                j = j+1
+                nowy_zestaw.append(random.choice(wszystkie_paczki))
         
         if fitness(nowy_zestaw) > min(HMwartosc): # zamiana zestawu z min fitness na nowy zestaw
             index = HMwartosc.index(min(HMwartosc))
